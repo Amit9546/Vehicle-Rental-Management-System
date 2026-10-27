@@ -70,19 +70,3 @@ luxury.show_car_details()
 days=2
 print("Rental Days : ",days)
 print("Total rent : ",luxury.calculate_rent(days))
-
-
-
-
-       
-
-
-
-
-
-
-
-
-
-
-
